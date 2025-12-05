@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:2.1
-N;LANGUAGE=de;CHARSET=Windows-1252:Dusel;André
-FN;CHARSET=Windows-1252:André Dusel
-ORG;CHARSET=Windows-1252:ADIUVO Rechtsanwälte PartG mbB
+N;LANGUAGE=de;CHARSET=Windows-1252:Dusel;AndrÃ©
+FN;CHARSET=Windows-1252:AndrÃ© Dusel
+ORG;CHARSET=Windows-1252:ADIUVO RechtsanwÃ¤lte PartG mbB
 TITLE:Partner/Rechtsanwalt
 TEL;WORK;VOICE:+49 (211) 7817760
-ADR;WORK;PREF;CHARSET=Windows-1252:;;Grafenberger Allee 125;Düsseldorf;;40237;Deutschland
+ADR;WORK;PREF;CHARSET=Windows-1252:;;Grafenberger Allee 125;DÃ¼sseldorf;;40237;Deutschland
 LABEL;WORK;PREF;CHARSET=Windows-1252;ENCODING=QUOTED-PRINTABLE:Grafenberger Allee 125=0D=0A=
 40237 D=FCsseldorf
 X-MS-OL-DEFAULT-POSTAL-ADDRESS:2
